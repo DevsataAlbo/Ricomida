@@ -13,6 +13,12 @@ body {
     background: #373A3C;
 }
 
+.separador-01 {
+    display: inline-block;
+    width: 90%;
+    margin: 20px;
+}
+
 hr {
     border: solid 1px #000000;
     color: #000000;
@@ -88,7 +94,11 @@ hr {
     text-align: center;
 }
 
-.newsletter h2 h5{
+.newsletter h2 {
+    font-size: 30px;
+}
+
+.newsletter h2 h4{
     display: inline-block;
 }
 
@@ -98,6 +108,10 @@ hr {
     background: #DC3545;
     text-decoration: none;
     padding: 10px 50px;
+}
+
+.ricomida-newsletter {
+    font-family: Lobster;
 }
 
 footer {
